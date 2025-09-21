@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- Full-Stack Developer with specialization in MERN (React, Node.js) and Tailwind CSS.
+- Actively expanding my skills into Machine Learning and building projects with Natural Language Processing (NLP).
+- I am eager to contribute to innovative and challenging projects.
 <!--
 **Wildscizor/Wildscizor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
