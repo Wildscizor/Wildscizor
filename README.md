@@ -1,4 +1,4 @@
-## Hi there, I'm theWildScizor 👋
+## Hi there, I'm TheWildScizor 👋
 - Full-Stack Developer with specialization in MERN (React, Node.js) and Tailwind CSS.
 - Actively expanding my skills into Machine Learning and building projects with Natural Language Processing (NLP).
 - I am eager to contribute to innovative and challenging projects.
